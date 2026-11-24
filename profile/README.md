@@ -1,8 +1,6 @@
 # The ARLTS Organization
 
-**A free, non-profit English-learning platform.** No ads, no paid tier, and no login wall on the learning path.
-
-[arlts.org](https://arlts.org)
+**A free, non-profit English-learning platform:** [arlts.org](https://arlts.org)
 
 ARLTS is a free, non-profit English-learning platform for people who learn with a teacher, a tutor, or a course. It covers the groundwork, vocabulary and grammar, and the time with a teacher can then go to using English, not relearning words.
 
