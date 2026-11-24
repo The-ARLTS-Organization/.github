@@ -12,13 +12,13 @@ There is no login wall on the learning path, no ads, and no paid tier. ARLTS is 
 
 These are the only accounts we run. If you find another one using the ARLTS name, please write to contact@arlts.org.
 
-- Website: [arlts.org](https://arlts.org)
-- Facebook: [facebook.com/arlts.org](https://facebook.com/arlts.org)
-- LinkedIn: [linkedin.com/company/arlts.organization](https://linkedin.com/company/arlts.organization)
-- Threads: [@arlts.organization1](https://www.threads.com/@arlts.organization1)
+- Website: [ARLTS](https://arlts.org)
+- Facebook: [ARLTS](https://www.facebook.com/arlts.organization)
+- LinkedIn: [ARLTS](https://linkedin.com/company/arlts.organization)
+- Threads: [ARLTS](https://www.threads.com/@arlts.organization1)
 - Crunchbase: [ARLTS](https://www.crunchbase.com/organization/arlts-academic-resources-for-language-learners-and-teachers)
 - Product Hunt: [ARLTS](https://www.producthunt.com/products/arlts)
-- GitHub: [The-ARLTS-Organization](https://github.com/The-ARLTS-Organization)
+- GitHub: [ARLTS](https://github.com/The-ARLTS-Organization)
 
 ## Reports
 
