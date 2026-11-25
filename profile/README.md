@@ -13,6 +13,7 @@ There is no login wall on the learning path, no ads, and no paid tier. ARLTS is 
 These are the only accounts we run. If you find another one using the ARLTS name, please write to contact@arlts.org.
 
 - Crunchbase: [ARLTS](https://www.crunchbase.com/organization/arlts-academic-resources-for-language-learners-and-teachers)
+- Dev.to: [ARLTS](https://dev.to/arlts)
 - F6S: [ARLTS](https://www.f6s.com/the-arlts-organization)
 - Facebook: [ARLTS](https://facebook.com/arlts.organization)
 - GitHub: [ARLTS](https://github.com/The-ARLTS-Organization)
